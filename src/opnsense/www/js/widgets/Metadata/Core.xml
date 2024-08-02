@@ -255,6 +255,12 @@
             <unconfigured>IPsec is currently disabled. Click to configure IPsec.</unconfigured>
             <notunnels>There are currently no tunnels.</notunnels>
             <notavailable>N/A</notavailable>
+            <bytesin>Bytes In</bytesin>
+            <bytesout>Bytes Out</bytesout>
+            <localts>Local TS</localts>
+            <remotets>Remote TS</remotets>
+            <lifetime>Life Time</lifetime>
+            <errorphase2>Error fetching Phase 2 entries:</errorphase2>
         </translations>
     </ipsectunnels>
     <Wireguard>
